@@ -15,7 +15,9 @@ const Products = (props) => {
   
   return (
     <table>
-      <caption> <h1>SmartPhones</h1></caption>
+      <caption>
+        <h1>SmartPhones</h1>
+      </caption>
       <thead>
         <tr>
           <th>Modelo</th>
